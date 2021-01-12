@@ -1,11 +1,11 @@
 # Lottery-Script
 
 # Example
-> C:\Users> python script.py
-Please enter number of participants: 10
-Please Enter Number of winners: 3
-Please Enter Player 1 name: a
-Please Enter Player 2 name: b
+> C:\Users> python script.py\
+Please enter number of participants: 10\
+Please Enter Number of winners: 3\
+Please Enter Player 1 name: a\
+Please Enter Player 2 name: b\
 Please Enter Player 3 name: c
 Please Enter Player 4 name: d
 Please Enter Player 5 name: e
