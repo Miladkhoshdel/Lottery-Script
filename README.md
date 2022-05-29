@@ -4,7 +4,7 @@ Simple Script for choose winner participants. (Personal Use)
 ## Requirments
 Just make sure you have python3 installed on your device.
 
-## Example
+## Usage Example
 > C:\Users> python script.py\\
 Please enter number of participants: 10\
 Please Enter Number of winners: 3\
