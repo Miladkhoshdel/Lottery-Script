@@ -1,4 +1,4 @@
-# Lottery-Script
+# Lottery Script 
 Simple Script for choose winner participants. (Personal Use)
 
 ## Requirments
