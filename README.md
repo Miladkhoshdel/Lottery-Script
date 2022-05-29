@@ -1,5 +1,5 @@
 # Lottery-Script
-Simple Script for choose winner participants
+Simple Script for choose winner participants. (Personal Use)
 
 ## Requirments
 Just make sure you have python3 installed on yur device.
