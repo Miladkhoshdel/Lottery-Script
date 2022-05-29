@@ -2,7 +2,7 @@
 Simple Script for choose winner participants. (Personal Use)
 
 ## Requirments
-Just make sure you have python3 installed on yur device.
+Just make sure you have python3 installed on your device.
 
 ## Example
 > C:\Users> python script.py\\
